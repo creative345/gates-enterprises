@@ -50,6 +50,7 @@ export default function RoofFaq({ name }) {
             width="100%"
             fit="cover"
             bgColor="inherit"
+            alt="hailroof"
             style={{ zIndex: '-1', opacity: '0.3', position: 'absolute' }}
           />
           <Typography variant="h1" align="center"
