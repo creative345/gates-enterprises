@@ -27,6 +27,7 @@ export default function Financing({ name }) {
           <Image
             top='0'
             src={handshake}
+            alt="handshake"
             height="100%"
             width="100%"
             fit="cover"
