@@ -41,6 +41,7 @@ export default function Services() {
           <Image
             top='0'
             src={roofersonroof}
+            alt="roofersonroof"
             height="100%"
             width="100%"
             fit="cover"
