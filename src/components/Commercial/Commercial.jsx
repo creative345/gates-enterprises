@@ -32,6 +32,7 @@ export default function Commercial({ name }) {
         <Image
           top='0'
           src={threeDHouse}
+          alt="3D House"
           height="100%"
           width="100%"
           fit="cover"
