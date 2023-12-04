@@ -34,6 +34,7 @@ export default function WhoWeAre({ name }) {
           <Image
             top='0'
             src={house6}
+            alt="house"
             height="100%"
             width="100%"
             fit="cover"
