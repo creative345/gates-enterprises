@@ -20,8 +20,9 @@ export default function Services() {
   return (
     <>
       <Helmet>
-        <title>Build Services and Build Process</title>
-        <meta name="description" content="Outline of exterior construction services we provide and our build process." />
+        <title>Colorado Roofers You Can Trust | Serving All Your Roofing Needs</title>
+        <meta name="description" content="Leaky roof? Storm damage? Gates Enterprises LLC, Colorado's trusted roofers, is here to help. Get a free inspection and quote today!" />
+        <meta name="keywords" content="roofer colorado">
         <link rel="canonical" href="https://www.gatesroof.com/services" />
       </Helmet>
       <Stack
