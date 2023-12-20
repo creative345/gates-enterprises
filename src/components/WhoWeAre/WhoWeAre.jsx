@@ -19,8 +19,9 @@ export default function WhoWeAre({ name }) {
   return (
     <>
       <Helmet>
-        <title>Info on Gates Enterprises's Company Culture</title>
-        <meta name="description" content="Learn more about the Gates Enterprises team and who we are." />
+        <title>Gates Enterprises: Your Roofing Contractor for Every Project</title>
+        <meta name="description" content="From repairs to replacements, Gates Enterprises LLC is a premier roofing contractor. Get a free quote and experience the Gates Enterprises difference!" />
+        <meta name="keywords" content="roofing contractor">
         <link rel="canonical" href="https://www.gatesroof.com/who-we-are" />
       </Helmet>
       <Stack>
